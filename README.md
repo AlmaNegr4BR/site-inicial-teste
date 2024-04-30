@@ -3,7 +3,7 @@ Site Inicial Teste
 
 <img title="a title" alt="Alt text" src="/imagens/sin-to.png">
 
-[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/embed/<VIDEO_ID>)
+[![Watch the video](https://img.youtube.com/vi/0d-PCT1xXXE?si=87v0ypo1FS3jBpDC/hqdefault.jpg)](https://www.youtube.com/embed/0d-PCT1xXXE?si=87v0ypo1FS3jBpDC)
 
 [<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/0d-PCT1xXXE?si=87v0ypo1FS3jBpDC)
